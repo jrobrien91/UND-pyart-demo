@@ -27,8 +27,6 @@ Additonal aim of this cookbook is to introduce the students to the world of open
 - Reading NEXRAD data from the Amazon S3 bucket
 ### Notebook 3 (Py-ART Gridding)
 - Gridding the Py-ART object
-### Notebook 4 (Additional Radar Packages)
-- Quick introduction / reference to additional open science radar packages
 
 ### Running on Your Own Machine
 If you are interested in running this material locally on your computer, you will need to follow this workflow:
