@@ -1,4 +1,4 @@
-name: arm-cookbook-dev
+name: und-tools-trade
 channels:
   - conda-forge
   - defaults
@@ -6,6 +6,7 @@ channels:
 dependencies:
   - python=3.9
   - arm_pyart
+  - act-atmos
   - matplotlib
   - jupyterlab
   - cartopy
@@ -14,6 +15,8 @@ dependencies:
   - distributed
   - xarray
   - pandas
+  - hvplot
+  - bokeh
   - fiona
   - pip
   - pip:
