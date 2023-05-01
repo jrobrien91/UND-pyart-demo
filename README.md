@@ -17,7 +17,7 @@ Additonal aim of this cookbook is to introduce the students to the world of open
 ### Contributors
 
 <a href="https://github.com/jrobrien91/UND-pyart-demo/graphs/contributors">
-  <img src="https://github.com/jrobrien91/UND-pyart-demo" />
+  <img src="https://contrib.rocks/image?repo=jrobrien91/UND-pyart-demo" />
 </a>
 
 ### Notebook 1 (Introduction - Why Py-ART?)
