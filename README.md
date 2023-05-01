@@ -12,11 +12,11 @@ Additonal aim of this cookbook is to introduce the students to the world of open
 
 ## Authors
 
-[First Author](@first-author), [Second Author](@second-author), etc. *Acknowledge primary content authors here*
+[Joe O'Brien](@jrobrien91)
 
 ### Contributors
 
-<a href="https://github.com/jrobrien91/UND-pyart-demo">
+<a href="https://github.com/jrobrien91/UND-pyart-demo/graphs/contributors">
   <img src="https://github.com/jrobrien91/UND-pyart-demo" />
 </a>
 
